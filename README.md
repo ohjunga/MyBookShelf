@@ -19,9 +19,7 @@
 ![1](https://user-images.githubusercontent.com/108468635/180410995-ce8e82d7-5954-42d0-8d91-a71159bb931e.png)
 ![2](https://user-images.githubusercontent.com/108468635/180411076-4506dd33-715d-4f89-8330-54e859a03a2c.png)
 ![3](https://user-images.githubusercontent.com/108468635/180411089-5390eb56-bed0-41a9-ad08-9285f6c97d9a.png)
-
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-07-22 at 18 10 24](https://user-images.githubusercontent.com/108468635/180411201-38297aaa-7c1a-478f-bb74-53ed07b75517.png)
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-07-22 at 18 10 27](https://user-images.githubusercontent.com/108468635/180411210-2aeba4c0-703a-44c6-8a2a-43047b11a1e0.png)
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-07-22 at 18 10 34](https://user-images.githubusercontent.com/108468635/180411216-8c94de44-1849-4523-b0c5-f5b872418648.png)
-
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-07-22 at 18 10 37](https://user-images.githubusercontent.com/108468635/180411413-85f4f935-d8cd-4d81-b6dc-d34ffdf73ccb.png)
